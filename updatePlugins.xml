@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- See https://plugins.jetbrains.com/docs/intellij/custom-plugin-repository.html#format-of-updatepluginsxml-file -->
+<plugins>
+  <plugin
+    id="net.bjonnh.intellij.filepermissionsplugin"
+    url="https://github.com/WalterWoshid/JetBrains-FilePermissionsPlugin/releases/download/v0.2.7%40WW/File.Permissions-0.2.7@WW.zip"
+    version="0.2.7@WW"
+  >
+    <idea-version since-build="222" until-build="233.*"/>
+  </plugin>
+</plugins>
